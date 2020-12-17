@@ -1,0 +1,49 @@
+
+
+
+
+
+
+
+Installed:
+  kernel.x86_64 0:3.10.0-1160.6.1.el7   kernel-devel.x86_64 0:3.10.0-1160.6.1.el7
+
+Updated:
+  NetworkManager.x86_64 1:1.18.8-2.el7_9
+  NetworkManager-libnm.x86_64 1:1.18.8-2.el7_9
+  NetworkManager-team.x86_64 1:1.18.8-2.el7_9
+  NetworkManager-tui.x86_64 1:1.18.8-2.el7_9
+  NetworkManager-wifi.x86_64 1:1.18.8-2.el7_9
+  bind-export-libs.x86_64 32:9.11.4-26.P2.el7_9.2
+  bind-libs-lite.x86_64 32:9.11.4-26.P2.el7_9.2
+  bind-license.noarch 32:9.11.4-26.P2.el7_9.2
+  centos-release.x86_64 0:7-9.2009.1.el7.centos
+  coreutils.x86_64 0:8.22-24.el7_9.2
+  curl.x86_64 0:7.29.0-59.el7_9.1
+  device-mapper-persistent-data.x86_64 0:0.8.5-3.el7_9.2
+  firewalld.noarch 0:0.6.3-12.el7
+  firewalld-filesystem.noarch 0:0.6.3-12.el7
+  glib2.x86_64 0:2.56.1-8.el7
+  golang-src.noarch 0:1.15.5-1.el7
+  httpd.x86_64 0:2.4.6-97.el7.centos
+  httpd-tools.x86_64 0:2.4.6-97.el7.centos
+  initscripts.x86_64 0:9.49.53-1.el7_9.1
+  kernel-headers.x86_64 0:3.10.0-1160.6.1.el7
+  kernel-tools.x86_64 0:3.10.0-1160.6.1.el7
+  kernel-tools-libs.x86_64 0:3.10.0-1160.6.1.el7
+  kexec-tools.x86_64 0:2.0.15-51.el7_9.1
+  kpartx.x86_64 0:0.4.9-134.el7_9
+  libcurl.x86_64 0:7.29.0-59.el7_9.1
+  microcode_ctl.x86_64 2:2.1-73.2.el7_9
+  mod_ssl.x86_64 1:2.4.6-97.el7.centos
+  python.x86_64 0:2.7.5-90.el7
+  python-firewall.noarch 0:0.6.3-12.el7
+  python-libs.x86_64 0:2.7.5-90.el7
+  python-perf.x86_64 0:3.10.0-1160.6.1.el7
+  selinux-policy.noarch 0:3.13.1-268.el7_9.2
+  selinux-policy-targeted.noarch 0:3.13.1-268.el7_9.2
+  systemd.x86_64 0:219-78.el7_9.2
+  systemd-libs.x86_64 0:219-78.el7_9.2
+  systemd-python.x86_64 0:219-78.el7_9.2
+  systemd-sysv.x86_64 0:219-78.el7_9.2
+  tuned.noarch 0:2.11.0-10.el7
