@@ -3,6 +3,35 @@
 
 
 
+8.0K    ./ocs-provider
+8.0K    ./ocm-provider
+20K     ./ocs
+11M     ./lib
+340M    ./apps
+16G     ./data
+68K     ./config
+85M     ./core
+80K     ./themes
+656K    ./updater
+58M     ./3rdparty
+376K    ./resources
+17G     .
+
+
+
+
+
+
+[root@sl-us-srv www]# du
+4.0K    ./cgi-bin
+367M    ./slc
+16K     ./lost+found
+17G     ./slcloud
+106M    ./html
+17G     .
+
+
+
 
 
 Installed:
